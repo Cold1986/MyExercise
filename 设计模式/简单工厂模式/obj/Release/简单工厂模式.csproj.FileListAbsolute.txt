@@ -1,0 +1,6 @@
+E:\project\MyExercise\设计模式\简单工厂模式\bin\Release\简单工厂模式.exe.config
+E:\project\MyExercise\设计模式\简单工厂模式\bin\Release\简单工厂模式.exe
+E:\project\MyExercise\设计模式\简单工厂模式\bin\Release\简单工厂模式.pdb
+E:\project\MyExercise\设计模式\简单工厂模式\obj\Release\简单工厂模式.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\设计模式\简单工厂模式\obj\Release\简单工厂模式.exe
+E:\project\MyExercise\设计模式\简单工厂模式\obj\Release\简单工厂模式.pdb

@@ -1,0 +1,5 @@
+E:\project\MyExercise\Test\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+E:\project\MyExercise\Test\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+E:\project\MyExercise\Test\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+E:\project\MyExercise\Test\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+E:\project\MyExercise\Test\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb

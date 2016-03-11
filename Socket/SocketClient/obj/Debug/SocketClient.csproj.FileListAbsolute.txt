@@ -1,0 +1,12 @@
+E:\project\MyExercise\SocketClient\bin\Debug\SocketClient.exe.config
+E:\project\MyExercise\SocketClient\bin\Debug\SocketClient.exe
+E:\project\MyExercise\SocketClient\bin\Debug\SocketClient.pdb
+E:\project\MyExercise\SocketClient\obj\Debug\SocketClient.exe
+E:\project\MyExercise\SocketClient\obj\Debug\SocketClient.pdb
+E:\project\MyExercise\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\Socket\SocketClient\bin\Debug\SocketClient.exe.config
+E:\project\MyExercise\Socket\SocketClient\obj\Debug\SocketClient.exe
+E:\project\MyExercise\Socket\SocketClient\obj\Debug\SocketClient.pdb
+E:\project\MyExercise\Socket\SocketClient\bin\Debug\SocketClient.exe
+E:\project\MyExercise\Socket\SocketClient\bin\Debug\SocketClient.pdb
+E:\project\MyExercise\Socket\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache

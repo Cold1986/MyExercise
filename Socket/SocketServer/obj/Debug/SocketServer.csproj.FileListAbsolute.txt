@@ -1,0 +1,11 @@
+E:\project\MyExercise\SocketServer\bin\Debug\SocketServer.exe.config
+E:\project\MyExercise\SocketServer\bin\Debug\SocketServer.exe
+E:\project\MyExercise\SocketServer\bin\Debug\SocketServer.pdb
+E:\project\MyExercise\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\SocketServer\obj\Debug\SocketServer.exe
+E:\project\MyExercise\SocketServer\obj\Debug\SocketServer.pdb
+E:\project\MyExercise\Socket\SocketServer\bin\Debug\SocketServer.exe.config
+E:\project\MyExercise\Socket\SocketServer\obj\Debug\SocketServer.exe
+E:\project\MyExercise\Socket\SocketServer\obj\Debug\SocketServer.pdb
+E:\project\MyExercise\Socket\SocketServer\bin\Debug\SocketServer.exe
+E:\project\MyExercise\Socket\SocketServer\bin\Debug\SocketServer.pdb

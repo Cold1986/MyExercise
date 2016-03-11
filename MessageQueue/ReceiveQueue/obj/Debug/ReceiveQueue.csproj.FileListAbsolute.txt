@@ -1,0 +1,10 @@
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\ReceiveQueue.exe.config
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\ReceiveQueue.exe
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\ReceiveQueue.pdb
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Debug\ReceiveQueue.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Debug\ReceiveQueue.exe
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Debug\ReceiveQueue.pdb
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\CommonLibrary.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\log4net.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\MongoDB.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Debug\CommonLibrary.pdb

@@ -1,0 +1,12 @@
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\ReceiveQueue.exe.config
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\ReceiveQueue.exe
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\ReceiveQueue.pdb
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\CommonLibrary.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\log4net.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\MongoDB.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\CommonLibrary.pdb
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Release\ReceiveQueue.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Release\ReceiveQueue.exe
+E:\project\MyExercise\MessageQueue\ReceiveQueue\obj\Release\ReceiveQueue.pdb
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\Newtonsoft.Json.dll
+E:\project\MyExercise\MessageQueue\ReceiveQueue\bin\Release\Newtonsoft.Json.xml

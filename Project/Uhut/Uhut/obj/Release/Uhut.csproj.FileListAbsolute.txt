@@ -1,0 +1,11 @@
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\Uhut.exe.config
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\Uhut.exe
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\Uhut.pdb
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\CommonLibrary.dll
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\log4net.dll
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\Newtonsoft.Json.dll
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\MongoDB.dll
+E:\project\MyExercise\Project\Uhut\Uhut\bin\Release\CommonLibrary.pdb
+E:\project\MyExercise\Project\Uhut\Uhut\obj\Release\Uhut.exe
+E:\project\MyExercise\Project\Uhut\Uhut\obj\Release\Uhut.pdb
+E:\project\MyExercise\Project\Uhut\Uhut\obj\Release\Uhut.csprojResolveAssemblyReference.cache

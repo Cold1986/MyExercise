@@ -1,0 +1,5 @@
+E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Release\SendMessageTransztion.exe.config
+E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Release\SendMessageTransztion.exe
+E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Release\SendMessageTransztion.pdb
+E:\project\MyExercise\MessageQueue\SendMessageTransztion\obj\Release\SendMessageTransztion.exe
+E:\project\MyExercise\MessageQueue\SendMessageTransztion\obj\Release\SendMessageTransztion.pdb

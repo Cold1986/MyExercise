@@ -1,0 +1,8 @@
+E:\project\MyExercise\CommonLibrary\bin\Debug\CommonLibrary.dll
+E:\project\MyExercise\CommonLibrary\bin\Debug\CommonLibrary.pdb
+E:\project\MyExercise\CommonLibrary\bin\Debug\MongoDB.dll
+E:\project\MyExercise\CommonLibrary\bin\Debug\MongoDB.GridFS.dll
+E:\project\MyExercise\CommonLibrary\obj\Debug\CommonLibrary.dll
+E:\project\MyExercise\CommonLibrary\obj\Debug\CommonLibrary.pdb
+E:\project\MyExercise\CommonLibrary\bin\Debug\log4net.dll
+E:\project\MyExercise\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache

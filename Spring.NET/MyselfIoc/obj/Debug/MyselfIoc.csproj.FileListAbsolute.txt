@@ -1,0 +1,10 @@
+E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfIoc.exe.config
+E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfIoc.exe
+E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfIoc.pdb
+E:\project\MyExercise\Spring.NET\MyselfLoc\obj\Debug\MyselfIoc.exe
+E:\project\MyExercise\Spring.NET\MyselfLoc\obj\Debug\MyselfIoc.pdb
+E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Debug\MyselfIoc.exe.config
+E:\project\MyExercise\Spring.NET\MyselfIoc\obj\Debug\MyselfIoc.exe
+E:\project\MyExercise\Spring.NET\MyselfIoc\obj\Debug\MyselfIoc.pdb
+E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Debug\MyselfIoc.exe
+E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Debug\MyselfIoc.pdb

@@ -1,0 +1,9 @@
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\SpringNetIoC.exe.config
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\SpringNetIoC.exe
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\SpringNetIoC.pdb
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\Common.Logging.dll
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\Spring.Core.dll
+E:\project\MyExercise\Spring.NET\SpringNetIoC\bin\Debug\Spring.Data.dll
+E:\project\MyExercise\Spring.NET\SpringNetIoC\obj\Debug\SpringNetIoC.exe
+E:\project\MyExercise\Spring.NET\SpringNetIoC\obj\Debug\SpringNetIoC.pdb
+E:\project\MyExercise\Spring.NET\SpringNetIoC\obj\Debug\SpringNetIoC.csprojResolveAssemblyReference.cache

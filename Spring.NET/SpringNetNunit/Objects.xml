@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<objects xmlns="http://www.springframework.net"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.net
+		http://www.springframework.net/xsd/spring-objects.xsd">
+
+	<!--单例模式-->
+	<object id="personDao" type="SpringNetNunit.PersonDao, SpringNetNunit" />
+
+	<!--非单例模式-->
+	<object id="person" type="SpringNetNunit.Person, SpringNetNunit" singleton="false" />
+
+	<!--调用时加载-->
+	<object id="personServer" type="SpringNetNunit.PersonServer, SpringNetNunit" lazy-init="true" />
+	<!--lazy-init属性是指：当Spring.NET容器初始化的时候标注该属性的对象将被实例化，反之则是调用GetObject方法的时候才被实例化。-->
+	<!--PersonDao类未设置lazy-init属性，则当Spring.NET初始化时被实例；PersonServer类设置lazy-init="true"，则当调用GetObject方法时才被实例。-->
+</objects>

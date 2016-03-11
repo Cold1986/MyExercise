@@ -1,0 +1,1 @@
+E:\project\MyExercise\设计模式\策略模式\bin\Release\策略模式.exe.config

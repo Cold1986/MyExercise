@@ -1,0 +1,11 @@
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\SendMessage.exe.config
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\SendMessage.exe
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\SendMessage.pdb
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\CommonLibrary.dll
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\Newtonsoft.Json.dll
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\log4net.dll
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\MongoDB.dll
+E:\project\MyExercise\MessageQueue\SendMessage\bin\Release\CommonLibrary.pdb
+E:\project\MyExercise\MessageQueue\SendMessage\obj\Release\SendMessage.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\MessageQueue\SendMessage\obj\Release\SendMessage.exe
+E:\project\MyExercise\MessageQueue\SendMessage\obj\Release\SendMessage.pdb

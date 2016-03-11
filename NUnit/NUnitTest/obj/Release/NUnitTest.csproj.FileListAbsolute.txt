@@ -1,0 +1,5 @@
+E:\project\MyExercise\NUnit\NUnitTest\bin\Release\NUnitTest.exe.config
+E:\project\MyExercise\NUnit\NUnitTest\bin\Release\NUnitTest.exe
+E:\project\MyExercise\NUnit\NUnitTest\bin\Release\NUnitTest.pdb
+E:\project\MyExercise\NUnit\NUnitTest\obj\Release\NUnitTest.exe
+E:\project\MyExercise\NUnit\NUnitTest\obj\Release\NUnitTest.pdb

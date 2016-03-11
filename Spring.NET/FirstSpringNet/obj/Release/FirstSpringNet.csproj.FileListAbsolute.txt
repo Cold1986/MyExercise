@@ -1,0 +1,8 @@
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\FirstSpringNet.exe.config
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\FirstSpringNet.exe
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\FirstSpringNet.pdb
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\Common.Logging.dll
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\Spring.Core.dll
+E:\project\MyExercise\Spring.NET\FirstSpringNet\bin\Release\Spring.Data.dll
+E:\project\MyExercise\Spring.NET\FirstSpringNet\obj\Release\FirstSpringNet.exe
+E:\project\MyExercise\Spring.NET\FirstSpringNet\obj\Release\FirstSpringNet.pdb

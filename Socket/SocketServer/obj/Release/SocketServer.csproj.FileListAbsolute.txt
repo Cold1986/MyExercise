@@ -1,0 +1,5 @@
+E:\project\MyExercise\Socket\SocketServer\bin\Release\SocketServer.exe.config
+E:\project\MyExercise\Socket\SocketServer\bin\Release\SocketServer.exe
+E:\project\MyExercise\Socket\SocketServer\bin\Release\SocketServer.pdb
+E:\project\MyExercise\Socket\SocketServer\obj\Release\SocketServer.exe
+E:\project\MyExercise\Socket\SocketServer\obj\Release\SocketServer.pdb

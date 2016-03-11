@@ -1,0 +1,8 @@
+E:\project\MyExercise\NUnit\NUnitTestTest\bin\Debug\NUnitTestTest.dll
+E:\project\MyExercise\NUnit\NUnitTestTest\bin\Debug\NUnitTestTest.pdb
+E:\project\MyExercise\NUnit\NUnitTestTest\bin\Debug\nunit.framework.dll
+E:\project\MyExercise\NUnit\NUnitTestTest\bin\Debug\NUnitTest.exe
+E:\project\MyExercise\NUnit\NUnitTestTest\bin\Debug\NUnitTest.pdb
+E:\project\MyExercise\NUnit\NUnitTestTest\obj\Debug\NUnitTestTest.csprojResolveAssemblyReference.cache
+E:\project\MyExercise\NUnit\NUnitTestTest\obj\Debug\NUnitTestTest.dll
+E:\project\MyExercise\NUnit\NUnitTestTest\obj\Debug\NUnitTestTest.pdb
