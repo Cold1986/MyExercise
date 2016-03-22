@@ -1,8 +1,0 @@
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\SpringNetNunit.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\SpringNetNunit.pdb
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\Common.Logging.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\nunit.framework.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\Spring.Core.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\bin\Release\Spring.Data.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\obj\Release\SpringNetNunit.dll
-E:\project\MyExercise\Spring.NET\SpringNetNunit\obj\Release\SpringNetNunit.pdb

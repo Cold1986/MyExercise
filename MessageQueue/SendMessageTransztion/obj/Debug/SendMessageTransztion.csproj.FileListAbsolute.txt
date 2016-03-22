@@ -1,6 +1,0 @@
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Debug\SendMessageTransztion.exe.config
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Debug\SendMessageTransztion.exe
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\bin\Debug\SendMessageTransztion.pdb
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\obj\Debug\SendMessageTransztion.csprojResolveAssemblyReference.cache
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\obj\Debug\SendMessageTransztion.exe
-E:\project\MyExercise\MessageQueue\SendMessageTransztion\obj\Debug\SendMessageTransztion.pdb

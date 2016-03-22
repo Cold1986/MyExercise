@@ -1,9 +1,0 @@
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\SpringNetDi.exe.config
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\SpringNetDi.exe
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\SpringNetDi.pdb
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\Common.Logging.dll
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\Spring.Core.dll
-E:\project\MyExercise\Spring.NET\SpringNetDi\bin\Debug\Spring.Data.dll
-E:\project\MyExercise\Spring.NET\SpringNetDi\obj\Debug\SpringNetDi.exe
-E:\project\MyExercise\Spring.NET\SpringNetDi\obj\Debug\SpringNetDi.pdb
-E:\project\MyExercise\Spring.NET\SpringNetDi\obj\Debug\SpringNetDi.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\project\MyExercise\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-E:\project\MyExercise\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-E:\project\MyExercise\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-E:\project\MyExercise\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-E:\project\MyExercise\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

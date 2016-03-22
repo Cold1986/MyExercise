@@ -1,6 +1,0 @@
-E:\project\MyExercise\NUnit\NUnitTest\bin\Debug\NUnitTest.exe.config
-E:\project\MyExercise\NUnit\NUnitTest\bin\Debug\NUnitTest.exe
-E:\project\MyExercise\NUnit\NUnitTest\bin\Debug\NUnitTest.pdb
-E:\project\MyExercise\NUnit\NUnitTest\obj\Debug\NUnitTest.exe
-E:\project\MyExercise\NUnit\NUnitTest\obj\Debug\NUnitTest.pdb
-E:\project\MyExercise\NUnit\NUnitTest\obj\Debug\NUnitTest.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\project\MyExercise\Socket\SocketClient\bin\Release\SocketClient.exe.config
-E:\project\MyExercise\Socket\SocketClient\bin\Release\SocketClient.exe
-E:\project\MyExercise\Socket\SocketClient\bin\Release\SocketClient.pdb
-E:\project\MyExercise\Socket\SocketClient\obj\Release\SocketClient.exe
-E:\project\MyExercise\Socket\SocketClient\obj\Release\SocketClient.pdb

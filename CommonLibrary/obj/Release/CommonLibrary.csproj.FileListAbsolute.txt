@@ -1,9 +1,0 @@
-E:\project\MyExercise\CommonLibrary\bin\Release\CommonLibrary.dll
-E:\project\MyExercise\CommonLibrary\bin\Release\CommonLibrary.pdb
-E:\project\MyExercise\CommonLibrary\bin\Release\log4net.dll
-E:\project\MyExercise\CommonLibrary\bin\Release\MongoDB.dll
-E:\project\MyExercise\CommonLibrary\bin\Release\MongoDB.GridFS.dll
-E:\project\MyExercise\CommonLibrary\obj\Release\CommonLibrary.dll
-E:\project\MyExercise\CommonLibrary\obj\Release\CommonLibrary.pdb
-E:\project\MyExercise\CommonLibrary\bin\Release\Newtonsoft.Json.dll
-E:\project\MyExercise\CommonLibrary\bin\Release\Newtonsoft.Json.xml

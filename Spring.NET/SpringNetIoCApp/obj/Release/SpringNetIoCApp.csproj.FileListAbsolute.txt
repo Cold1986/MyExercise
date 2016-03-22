@@ -1,8 +1,0 @@
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\SpringNetIoCApp.exe.config
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\SpringNetIoCApp.exe
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\SpringNetIoCApp.pdb
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\Common.Logging.dll
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\Spring.Core.dll
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\bin\Release\Spring.Data.dll
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\obj\Release\SpringNetIoCApp.exe
-E:\project\MyExercise\Spring.NET\SpringNetIoCApp\obj\Release\SpringNetIoCApp.pdb
