@@ -1,6 +1,0 @@
-E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfLoc.exe.config
-E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfLoc.exe
-E:\project\MyExercise\Spring.NET\MyselfLoc\bin\Debug\MyselfLoc.pdb
-E:\project\MyExercise\Spring.NET\MyselfLoc\obj\Debug\MyselfLoc.csprojResolveAssemblyReference.cache
-E:\project\MyExercise\Spring.NET\MyselfLoc\obj\Debug\MyselfLoc.exe
-E:\project\MyExercise\Spring.NET\MyselfLoc\obj\Debug\MyselfLoc.pdb

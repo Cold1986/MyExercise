@@ -1,5 +1,0 @@
-E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Release\MyselfIoc.exe.config
-E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Release\MyselfIoc.exe
-E:\project\MyExercise\Spring.NET\MyselfIoc\bin\Release\MyselfIoc.pdb
-E:\project\MyExercise\Spring.NET\MyselfIoc\obj\Release\MyselfIoc.exe
-E:\project\MyExercise\Spring.NET\MyselfIoc\obj\Release\MyselfIoc.pdb
