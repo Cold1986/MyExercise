@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace 单件模式_Singleton_Pattern_
+namespace 单件模式
 {
     ///延迟初始化单例模式
     public class CountSigleton

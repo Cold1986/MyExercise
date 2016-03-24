@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 单件模式_Singleton_Pattern_
+namespace 单件模式
 {
     class Program
     {

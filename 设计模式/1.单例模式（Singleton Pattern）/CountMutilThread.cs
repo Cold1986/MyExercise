@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace 单件模式_Singleton_Pattern_
+namespace 单件模式
 {
     /// <summary>
     /// 功能：创建一个多线程计数的类
