@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace 单件模式
 {
     ///延迟初始化单例模式
-    public class CountSigleton
+    public sealed class CountSigleton
     {
 
         ///存储唯一的实例
