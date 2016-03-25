@@ -9,4 +9,9 @@
 	<object name="MongoDB.GridFS.dll" description="MongoDB使用"></object>
 	<object name="Newtonsoft.Json.dll" description="json转换用"></object>
 	<object name="nunit.framework.dll" description="nunit测试用"></object>
+
+	<object name="ServiceStack.Common.dll" description="redis用"></object>
+	<object name="ServiceStack.Interfaces.dll" description="redis用"></object>
+	<object name="ServiceStack.Redis.dll" description="redis用"></object>
+	<object name="ServiceStack.Text.dll" description="redis用"></object>
 </objects>
