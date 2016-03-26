@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Convert\ConvertHelper.cs" />
+    <Compile Include="Convert\JsonHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />

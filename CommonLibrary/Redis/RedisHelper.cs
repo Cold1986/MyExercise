@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ServiceStack.Redis;
+using Newtonsoft.Json;
+using System.IO;
+
 namespace CommonLibrary
 {
     public class RedisHelper : IDisposable
@@ -99,7 +102,15 @@ namespace CommonLibrary
 
             try
             {
-                t = redisCli.Get<T>(key);
+                var value = redisCli.GetValue(key);
+                JsonSerializer serializer = new JsonSerializer();
+                StringReader sr = new StringReader(value);
+                object o = serializer.Deserialize(new JsonTextReader(sr), typeof(T));
+                t = o as T;
+                return t;
+
+
+                //t = redisCli.Get<T>(key);
             }
             catch (Exception ex)
             {
@@ -110,7 +121,10 @@ namespace CommonLibrary
 
         public static void Set<T>(string key, T value, int expirySeconds = 60*60*24*30) where T : class
         {
-            var r=redisCli.Set(key, value, TimeSpan.FromSeconds(expirySeconds));
+            var t = JsonConvert.SerializeObject(value);
+            redisCli.SetValue(key, t, TimeSpan.FromSeconds(expirySeconds));
+
+            //var r=redisCli.Set(key, value, TimeSpan.FromSeconds(expirySeconds));
         }
 
         public static byte[] GetByteValue(string key)
