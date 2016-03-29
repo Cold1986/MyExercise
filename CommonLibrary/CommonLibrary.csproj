@@ -80,6 +80,7 @@
     <Compile Include="MQ\MessageQueueHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
+    <Compile Include="SpringNet\SpringObjectFactory.cs" />
     <Compile Include="Web\RequestHelper.cs" />
     <Compile Include="Web\WebHelper.cs" />
   </ItemGroup>
