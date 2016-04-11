@@ -70,8 +70,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cache\CacheHelper.cs" />
+    <Compile Include="Config\WebConfigHelper.cs" />
     <Compile Include="Convert\ConvertHelper.cs" />
     <Compile Include="Convert\JsonHelper.cs" />
+    <Compile Include="Cookie\CookieHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />

@@ -25,7 +25,15 @@ namespace Redis
 
             var tt=RedisHelper.Get<People>("testT");
 
-            Console.WriteLine(RedisHelper.GetStringValue("test"));
+
+
+            RedisHelper.SetHashField("testHash", "1", "hashTest1");
+            RedisHelper.SetHashField("testHash", "2", "hashTest2");
+            RedisHelper.SetHashField("testHash", "1", "hashTest12");
+
+            var t=RedisHelper.GetHashField("testHash", "1");
+
+            Console.WriteLine(t);
             Console.ReadKey();
         }
 
