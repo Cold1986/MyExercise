@@ -9,7 +9,7 @@ using System.Web;
 namespace CommonLibrary
 {
     /// <summary>
-    /// 缓存帮助类
+    /// 本地缓存帮助类
     /// </summary>
     public class CacheHelper
     {
