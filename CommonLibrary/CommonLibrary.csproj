@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\packages\AutoMapper.4.2.1\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="log4net">
       <HintPath>..\CommonDll\log4net.dll</HintPath>
     </Reference>
@@ -75,6 +78,7 @@
     <Compile Include="Convert\ConvertHelper.cs" />
     <Compile Include="Convert\JsonHelper.cs" />
     <Compile Include="Cookie\CookieHelper.cs" />
+    <Compile Include="DTO\AutoMapperHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />

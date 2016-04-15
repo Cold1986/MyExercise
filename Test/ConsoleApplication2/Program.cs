@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CommonLibrary;
 
 namespace ConsoleApplication2
 {
@@ -12,6 +13,15 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            Address ShipInfo = new Address();
+            ShipInfo.Country = "China";
+            ShipInfo.City = "ShangHai";
+            ShipInfo.Street = "JinZhong Street";
+            //对象映射
+            AddressDto shipInfoModel = ShipInfo.MapTo<AddressDto>();
+            //列表映射
+            //List<ShipInfo> shipInfoModellist = ShipInfoList.MapToList<ShipInfoModel>();
+
             string t = EnumBookOrderRequestType.BookOrder.ToString();
             //try
             //{
@@ -249,4 +259,17 @@ namespace ConsoleApplication2
         [Description("请求供应商申请占座接口异常")]
         SysBookOrderFail2 = 2021
     }
+
+    class AddressDto
+    {
+        public string Country { get; set; }
+        public string City { get; set; }
+        //public string Street { get; set; }
+    };
+    class Address
+    {
+        public string Country { get; set; }
+        public string City { get; set; }
+        public string Street { get; set; }
+    };
 }
