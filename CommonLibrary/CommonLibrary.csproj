@@ -85,7 +85,11 @@
     <Compile Include="DEncrypt\DESDEncrypt.cs" />
     <Compile Include="DEncrypt\FileDEncrypt.cs" />
     <Compile Include="DEncrypt\HashDEncrypt.cs" />
+    <Compile Include="DEncrypt\MD5Encrypt.cs" />
+    <Compile Include="DEncrypt\RSADEncrypt.cs" />
+    <Compile Include="DEncrypt\TripleDESDEncrypt.cs" />
     <Compile Include="DTO\AutoMapperHelper.cs" />
+    <Compile Include="Email\MailHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />
@@ -95,6 +99,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
     <Compile Include="SpringNet\SpringObjectFactory.cs" />
+    <Compile Include="String\StringHelper.cs" />
     <Compile Include="Web\RequestHelper.cs" />
     <Compile Include="Web\WebHelper.cs" />
   </ItemGroup>
