@@ -82,6 +82,9 @@
     <Compile Include="Date\ChineseCalHelper.cs" />
     <Compile Include="Date\TimeHelper.cs" />
     <Compile Include="DEncrypt\Base64DEncrypt.cs" />
+    <Compile Include="DEncrypt\DESDEncrypt.cs" />
+    <Compile Include="DEncrypt\FileDEncrypt.cs" />
+    <Compile Include="DEncrypt\HashDEncrypt.cs" />
     <Compile Include="DTO\AutoMapperHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
