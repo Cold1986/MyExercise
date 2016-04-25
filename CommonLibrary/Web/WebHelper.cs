@@ -91,6 +91,58 @@ namespace CommonLibrary.Web
             return returnResult;
         }
 
+        /// <summary>
+        /// 获取本机的计算机名
+        /// </summary>
+        public static string LocalHostName
+        {
+            get
+            {
+                return Dns.GetHostName();
+            }
+        }
+
+        /// <summary>
+        /// 获取本机的局域网IP
+        /// </summary>        
+        public static string LANIP
+        {
+            get
+            {
+                //获取本机的IP列表,IP列表中的第一项是局域网IP，第二项是广域网IP
+                IPAddress[] addressList = Dns.GetHostEntry(Dns.GetHostName()).AddressList;
+
+                //如果本机IP列表为空，则返回空字符串
+                if (addressList.Length < 1)
+                {
+                    return "";
+                }
+
+                //返回本机的局域网IP
+                return addressList[0].ToString();
+            }
+        }
+
+        /// <summary>
+        /// 获取本机在Internet网络的广域网IP
+        /// </summary>        
+        public static string WANIP
+        {
+            get
+            {
+                //获取本机的IP列表,IP列表中的第一项是局域网IP，第二项是广域网IP
+                IPAddress[] addressList = Dns.GetHostEntry(Dns.GetHostName()).AddressList;
+
+                //如果本机IP列表小于2，则返回空字符串
+                if (addressList.Length < 2)
+                {
+                    return "";
+                }
+
+                //返回本机的广域网IP
+                return addressList[1].ToString();
+            }
+        }
 
         #region 获取ip4地址
         /// <summary>

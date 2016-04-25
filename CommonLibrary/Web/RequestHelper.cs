@@ -43,7 +43,7 @@ namespace CommonLibrary.Web
                 }
             }
             // POST方式
-            if (method.ToUpper() == "POST")
+            else if (method.ToUpper() == "POST")
             {
                 if (para.Length > 0 && para.IndexOf('?') == 0)
                 {
