@@ -66,6 +66,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Messaging" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -92,6 +93,10 @@
     <Compile Include="Email\MailHelper.cs" />
     <Compile Include="Enum\EnumHelper.cs" />
     <Compile Include="Excel\ExcelHelper.cs" />
+    <Compile Include="File\DirectoryHelper.cs" />
+    <Compile Include="File\FileDownHelper.cs" />
+    <Compile Include="File\FileHelper.cs" />
+    <Compile Include="File\FileUpHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />
     <Compile Include="Log\LogHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />

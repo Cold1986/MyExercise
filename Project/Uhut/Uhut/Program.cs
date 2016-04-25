@@ -35,52 +35,52 @@ namespace Uhut
                 //uname=15616267087; PHPSESSID=vih0ctvdq28fvn8hc3rpmkc163; Hm_lvt_7d9bd6c6ed64a642886e05279f95b983=1457322717; Hm_lpvt_7d9bd6c6ed64a642886e05279f95b983=1457342589
                 //cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("SessionID", "vih0ctvdq28fvn8hc3rpmkc163"));
                 string a = System.Environment.CurrentDirectory;
-                DataSet DS = ExcelHelper.Excel2010ToDS(System.Environment.CurrentDirectory + "/Excel/RegList.xlsx");
-                if (DS.Tables[0].Rows.Count > 0)
-                {
-                    _logger.Debug("请求开始，一共：" + DS.Tables[0].Rows.Count.ToString());
-                    Console.WriteLine("请求开始，一共：" + DS.Tables[0].Rows.Count.ToString());
-                    for (int i = 0; i < DS.Tables[0].Rows.Count; i++)//DS.Tables[0].Rows.Count
-                    {
-                        try
-                        {
-                            CookieContainer cookie = new CookieContainer();
-                            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("PHPSESSID", PHPSESSID));
-                            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("uname", "15616267087"));
-                            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("Hm_lvt_7d9bd6c6ed64a642886e05279f95b983", "1457322717"));
-                            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("Hm_lpvt_7d9bd6c6ed64a642886e05279f95b983", "1457342589"));
+                //DataTable DS = ExcelHelper.Excel2010ToDT(System.Environment.CurrentDirectory + "/Excel/RegList.xlsx","table1");
+                //if (DS.Tables[0].Rows.Count > 0)
+                //{
+                //    _logger.Debug("请求开始，一共：" + DS.Tables[0].Rows.Count.ToString());
+                //    Console.WriteLine("请求开始，一共：" + DS.Tables[0].Rows.Count.ToString());
+                //    for (int i = 0; i < DS.Tables[0].Rows.Count; i++)//DS.Tables[0].Rows.Count
+                //    {
+                //        try
+                //        {
+                //            CookieContainer cookie = new CookieContainer();
+                //            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("PHPSESSID", PHPSESSID));
+                //            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("uname", "15616267087"));
+                //            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("Hm_lvt_7d9bd6c6ed64a642886e05279f95b983", "1457322717"));
+                //            cookie.Add(new System.Uri("http://mall.uhut.com"), new Cookie("Hm_lpvt_7d9bd6c6ed64a642886e05279f95b983", "1457342589"));
 
-                            Thread.Sleep(IntervalSecond * 1000);  // 1000为一秒
+                //            Thread.Sleep(IntervalSecond * 1000);  // 1000为一秒
 
-                            string name = DS.Tables[0].Rows[i][0].ToString();
-                            string regResponse = "失败";
-                            string SendMsg = SendMsgRequest(name, ref cookie);
-                            if (SendMsg == "1")
-                            {
-                                var regCode = GetHtml(name);//GetSendMsgRequest(name);
-                                if (regCode == "nodatamsgcontentValue")//重发
-                                {
-                                    Thread.Sleep(IntervalSecond * 1000);  // 1000为一秒
-                                    SendMsg = SendMsgRequest(name, ref cookie);
-                                    if (SendMsg == "1")
-                                    {
-                                        regCode = GetHtml(name);
-                                    }
-                                }
-                                regResponse = RegRequest(name, regCode, ref cookie);
-                            }
-                            else
-                            {
-                                _logger.Debug("短信发送失败Name：" + name);
-                            }
-                            Console.WriteLine("请求Name：" + name + " 结果:" + regResponse);
-                        }
-                        catch (Exception e)
-                        {
-                            Console.WriteLine("请求异常：" + e.Message);
-                        }
-                    }
-                }
+                //            string name = DS.Tables[0].Rows[i][0].ToString();
+                //            string regResponse = "失败";
+                //            string SendMsg = SendMsgRequest(name, ref cookie);
+                //            if (SendMsg == "1")
+                //            {
+                //                var regCode = GetHtml(name);//GetSendMsgRequest(name);
+                //                if (regCode == "nodatamsgcontentValue")//重发
+                //                {
+                //                    Thread.Sleep(IntervalSecond * 1000);  // 1000为一秒
+                //                    SendMsg = SendMsgRequest(name, ref cookie);
+                //                    if (SendMsg == "1")
+                //                    {
+                //                        regCode = GetHtml(name);
+                //                    }
+                //                }
+                //                regResponse = RegRequest(name, regCode, ref cookie);
+                //            }
+                //            else
+                //            {
+                //                _logger.Debug("短信发送失败Name：" + name);
+                //            }
+                //            Console.WriteLine("请求Name：" + name + " 结果:" + regResponse);
+                //        }
+                //        catch (Exception e)
+                //        {
+                //            Console.WriteLine("请求异常：" + e.Message);
+                //        }
+                //    }
+                //}
             }
             catch (Exception ex)
             {
