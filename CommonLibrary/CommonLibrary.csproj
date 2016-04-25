@@ -64,6 +64,7 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Messaging" />
     <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms" />
@@ -101,6 +102,9 @@
     <Compile Include="FTP\FTPHelper.cs" />
     <Compile Include="Html\HtmlHelper.cs" />
     <Compile Include="Html\JavaScriptHelper.cs" />
+    <Compile Include="Image\ImageDown.cs" />
+    <Compile Include="Image\ImageHelper.cs" />
+    <Compile Include="Image\ImageUpload.cs" />
     <Compile Include="Log\LogHandler.cs" />
     <Compile Include="Log\LogHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />
