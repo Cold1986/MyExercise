@@ -107,6 +107,7 @@
     <Compile Include="Image\ImageUpload.cs" />
     <Compile Include="Log\LogHandler.cs" />
     <Compile Include="Log\LogHelper.cs" />
+    <Compile Include="Media\MediaHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />
     <Compile Include="MQ\MessageQueueHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
