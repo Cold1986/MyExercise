@@ -97,6 +97,8 @@
     <Compile Include="File\FileDownHelper.cs" />
     <Compile Include="File\FileHelper.cs" />
     <Compile Include="File\FileUpHelper.cs" />
+    <Compile Include="FTP\FTPClient.cs" />
+    <Compile Include="FTP\FTPHelper.cs" />
     <Compile Include="Log\LogHandler.cs" />
     <Compile Include="Log\LogHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />
