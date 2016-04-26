@@ -113,6 +113,11 @@
     <Compile Include="Media\MediaHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />
     <Compile Include="MQ\MessageQueueHelper.cs" />
+    <Compile Include="Page\PageValidate.cs" />
+    <Compile Include="Page\ValidateImgPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Path\WebSitePathHelper.cs" />
     <Compile Include="PinYin\PinYinHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
