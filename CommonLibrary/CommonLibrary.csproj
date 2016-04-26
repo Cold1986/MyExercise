@@ -124,8 +124,10 @@
     <Compile Include="PDF\PDFOperationHelper.cs" />
     <Compile Include="PinYin\PinYinHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Random\RandomHelper.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
     <Compile Include="RMB\RMBHelper.cs" />
+    <Compile Include="Session\SessionHelper.cs" />
     <Compile Include="SpringNet\SpringObjectFactory.cs" />
     <Compile Include="String\StringHelper.cs" />
     <Compile Include="Web\RequestHelper.cs" />
