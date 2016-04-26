@@ -33,6 +33,9 @@
     <Reference Include="AutoMapper">
       <HintPath>..\packages\AutoMapper.4.2.1\lib\net45\AutoMapper.dll</HintPath>
     </Reference>
+    <Reference Include="ChnCharInfo">
+      <HintPath>..\CommonDll\ChnCharInfo.dll</HintPath>
+    </Reference>
     <Reference Include="log4net">
       <HintPath>..\CommonDll\log4net.dll</HintPath>
     </Reference>
@@ -110,6 +113,7 @@
     <Compile Include="Media\MediaHelper.cs" />
     <Compile Include="MongoDB\MongoDbHelper.cs" />
     <Compile Include="MQ\MessageQueueHelper.cs" />
+    <Compile Include="PinYin\PinYinHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
     <Compile Include="RMB\RMBHelper.cs" />
