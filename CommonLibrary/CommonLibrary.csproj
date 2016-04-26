@@ -36,6 +36,9 @@
     <Reference Include="ChnCharInfo">
       <HintPath>..\CommonDll\ChnCharInfo.dll</HintPath>
     </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\packages\iTextSharp.5.5.9\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="log4net">
       <HintPath>..\CommonDll\log4net.dll</HintPath>
     </Reference>
@@ -118,6 +121,7 @@
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Path\WebSitePathHelper.cs" />
+    <Compile Include="PDF\PDFOperationHelper.cs" />
     <Compile Include="PinYin\PinYinHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\RedisHelper.cs" />
