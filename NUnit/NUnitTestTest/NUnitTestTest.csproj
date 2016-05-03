@@ -46,12 +46,6 @@
     <Compile Include="NUnitTestTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\NUnitTest\NUnitTest.csproj">
-      <Project>{3c4ee5e2-0811-4b17-9fa1-eee0f3a81390}</Project>
-      <Name>NUnitTest</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

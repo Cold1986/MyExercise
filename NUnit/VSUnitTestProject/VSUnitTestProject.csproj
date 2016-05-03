@@ -59,12 +59,6 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\NUnitTest\NUnitTest.csproj">
-      <Project>{3C4EE5E2-0811-4B17-9FA1-EEE0F3A81390}</Project>
-      <Name>NUnitTest</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
