@@ -47,12 +47,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\CommonLibrary\CommonLibrary.csproj">
-      <Project>{cf9b9430-de0e-4e6f-a762-2fefbc09bb65}</Project>
-      <Name>CommonLibrary</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
